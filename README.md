@@ -6,6 +6,16 @@
 
 A single museum placard for an ordinary office stapler, catalogued as a ritual binding device from a lost civilisation. `main.py` writes the line to `/output/entry.txt`.
 
+## The entry
+
+> Stapler, Ritual Binding Device, c. 1997. Pressed steel, jammed with the sacred staple of the Q3 harvest. Donated by the Department of Unfinished Reports.
+
+153 characters (gate: 1–180).
+
+## Why it lands
+
+The humour comes from the museum-placard voice applied to the most boring object on a desk: a stapler becomes a "Ritual Binding Device" from circa 1997, with a catalogue entry, a material note, and a donor. Every mundane detail gets the grand treatment — the jam is sacred, the staple is from a harvest, the donor is a department of unfinished reports. The gap between the solemn format and the office junk is the whole joke.
+
 ## Run it
 
 ```sh
