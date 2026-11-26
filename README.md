@@ -14,7 +14,7 @@ A single museum placard for an ordinary office stapler, catalogued as a ritual b
 
 ## Why it lands
 
-The humour comes from the museum-placard voice applied to the most boring object on a desk: a stapler becomes a "Ritual Binding Device" from circa 1997, with a catalogue entry, a material note, and a donor. Every mundane detail gets the grand treatment — the jam is sacred, the staple is from a harvest, the donor is a department of unfinished reports. The gap between the solemn format and the office junk is the whole joke.
+The humour comes from the museum-placard voice applied to the most boring object on a desk: a stapler becomes a "Ritual Binding Device" from circa 1997, with a catalogue entry, a material note, and a donor. Every mundane detail gets the grand treatment — the jam is sacred, the staple is from a harvest, the donor is a department of unfinished reports. The gap between the solemn format and the office junk is the whole joke. The date, c. 1997, does quiet work too: it places the stapler just far enough in the past to feel like an artefact, while everyone reading still remembers offices exactly like that.
 
 ## Run it
 
